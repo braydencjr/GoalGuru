@@ -1,7 +1,7 @@
 # GoalGuru
 GoalGuru — An AI-powered Smart Career Advisor with dual search integration (Google Search + Tavily), persistent user memory, and intelligent filtering to deliver personalized career guidance.
 
-1. Overview
+# 1. Overview
 GoalGuru is an interactive AI assistant that helps users explore career paths based on their skills, interests, education level, and goals.
 Key features include:
 
@@ -17,7 +17,8 @@ Structured Data Tracking — stores user’s interests, skills, concerns, timeli
 
 Gradio Web UI — easy-to-use interface for real-time interaction.
 
-2. Features
+#2. Features
+   
 🧠 Enhanced Memory System — stores up to 20 conversation turns and key facts for continuity.
 
 🔍 Smart Search — integrates multiple search APIs for comprehensive results.
@@ -28,13 +29,14 @@ Gradio Web UI — easy-to-use interface for real-time interaction.
 
 💬 Real-Time Interaction — interactive Gradio chat interface.
 
-3. Tech Stack
-Python
+# 3. Tech Stack
 
-LangChain (Gemini LLM integration)
+-Python
 
-Gradio (web UI)
+-LangChain (Gemini LLM integration)
 
-Google Search API
+-Gradio (web UI)
 
-Tavily API
+-Google Search API
+
+-Tavily API
