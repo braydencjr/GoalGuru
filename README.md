@@ -17,7 +17,8 @@ Structured Data Tracking — stores user’s interests, skills, concerns, timeli
 
 Gradio Web UI — easy-to-use interface for real-time interaction.
 
-#2. Features
+
+# 2. Features
    
 🧠 Enhanced Memory System — stores up to 20 conversation turns and key facts for continuity.
 
@@ -28,6 +29,7 @@ Gradio Web UI — easy-to-use interface for real-time interaction.
 🧹 Result Filtering — removes irrelevant or duplicate results, keeping only useful content.
 
 💬 Real-Time Interaction — interactive Gradio chat interface.
+
 
 # 3. Tech Stack
 
